@@ -9,3 +9,7 @@ Ele possui uma interface simples, onde tem uma AppBar e abaixo campos para fazer
 
 ## Vídeo de Demonstração
 
+https://github.com/WooMateus/CalculadoraIMC/assets/89880155/4ebd7a20-32bc-4814-bab9-94718db3b1f9
+
+**Créditos audio:** tnbee (YouTube)
+
