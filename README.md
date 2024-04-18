@@ -1,19 +1,11 @@
-# Prova
+# Prova de Programação Para Aplicativos Móveis
+O projeto foi criado de início no FlutLab e depois os códigos foram movidos para o GitHub.
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## Interface
 
-## Getting Started
+![image](https://github.com/WooMateus/CalculadoraIMC/assets/89880155/9715fa4c-3635-493e-b123-91556dd66fda)
 
-A few resources to get you started if this is your first Flutter project:
+Ele possui uma interface simples, onde tem uma AppBar e abaixo campos para fazer o cálculo de IMC.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Vídeo de Demonstração
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
