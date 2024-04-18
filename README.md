@@ -6,6 +6,7 @@ O projeto foi criado de início no FlutLab e depois os códigos foram movidos pa
 ![image](https://github.com/WooMateus/CalculadoraIMC/assets/89880155/9715fa4c-3635-493e-b123-91556dd66fda)
 
 Ele possui uma interface simples, onde tem uma AppBar e abaixo campos para fazer o cálculo de IMC.
+Arquivo principal caso o do GitHub dê erro: https://pastebin.com/NUEtcHeL
 
 ## Vídeo de Demonstração
 
